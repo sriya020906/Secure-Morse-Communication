@@ -1,0 +1,20 @@
+# Keil build outputs
+Objects/
+Listings/
+*.axf
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
